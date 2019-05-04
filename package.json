@@ -1,0 +1,27 @@
+{
+  "name": "carpimas",
+  "version": "1.0.0",
+  "description": "online store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanjeanca/VueExpressStore.git"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "Ivanjeancca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanjeanca/VueExpressStore/issues"
+  },
+  "homepage": "https://github.com/ivanjeanca/VueExpressStore#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "pg": "^7.10.0"
+  }
+}
